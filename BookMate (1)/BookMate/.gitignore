@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+books.csv
+books.csv.bak
+books.csv.tmp
